@@ -442,7 +442,7 @@ section ol li::before {
     /* margin-right: 2.5em; */
   }
 
-footer .container a:hover,footer .container a:focus{
+main footer a:hover,main footer a:focus{
     position: relative;  
     background: 100%;
       -webkit-transform: scale(1.2);
@@ -451,5 +451,9 @@ footer .container a:hover,footer .container a:focus{
       color:#8dc6d9;
       -webkit-box-shadow: rgba(0, 0.5, 0.5, 0.50) 0px 5px 5px;
           box-shadow: rgba(0, 0.50, 0.50, 0.50) 0px 25px 5px;
+      
+  }
+
+  .profile{
       
   }
