@@ -20,3 +20,9 @@
 
 ## Final Output
 ### [Blue-Beast](https://stylestage.dev/styles/blue-beast/)
+
+## Special thanks to 
+### [BLooDBRothER](https://github.com/BLooDBRothER)
+<br>
+
+### [Lakshmikant.K](https://github.com/Lakshmikant-2001)
