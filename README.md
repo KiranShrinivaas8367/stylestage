@@ -1,4 +1,4 @@
-# stylestage
+# Stylestage
 
 ### Project - @ [StyleStage](https://stylestage.dev/)
 ### Style Stage CSS Show Case [Blue-Beast](https://stylestage.dev/styles/blue-beast/)
@@ -7,15 +7,16 @@
 
 # Description
 
-A Cascading Style Sheet developed for demonstrating a creative showcaese with contribution @StyleStage.
+#### A Cascading Style Sheet developed for demonstrating a creative showcaese with contribution @StyleStage.
 
 ## What I incorporated
 
 * Cascading Style Sheets 3
 
-<hr>
-
 ## Style Stage Official
 
-Website(https://stylestage.dev/)
-Repository(
+### [Website](https://stylestage.dev/)
+### [Repository](https://github.com/5t3ph/stylestage)
+
+## Final Output
+### [Blue-Beast](https://stylestage.dev/styles/blue-beast/)
